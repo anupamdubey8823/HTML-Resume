@@ -1,0 +1,14 @@
+body {
+    background-image: linear-gradient(to bottom right, powderblue, #e3fdfd);
+}
+hr {
+    border-color: white;
+    border-width: 1.5px;
+    width: auto;
+}
+h1 {
+    color: #334443;
+}
+h3 {
+    color: #34656d;
+}
