@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(to bottom right, #8ab6d6, #e3fdfd);
+    background-image: linear-gradient(to bottom, #00adb5, #e3fdfd);
 }
 hr {
     border-color: white;
@@ -7,8 +7,16 @@ hr {
     width: auto;
 }
 h1 {
-    color: #334443;
+    color: #23049d;
 }
 h3 {
-    color: #34656d;
+    color: #23049d;
 }
+.dp:hover {
+    background-color: rebeccapurple;
+}
+#heading {
+    color: #04009a;
+}
+/*IDs are used only to target particular elements which occur only once throught the page*/
+/*Class Selectors are used to target a group of elements. Eg - 
