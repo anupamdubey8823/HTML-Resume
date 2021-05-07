@@ -9,7 +9,7 @@ hr {
 h1 {
     color: #23049d;
 }
-h3 {
+h2 {
     color: #23049d;
 }
 .dp:hover {
@@ -17,6 +17,9 @@ h3 {
 }
 #heading {
     color: #04009a;
+}
+.about {
+    font-size: 18px;
 }
 /*IDs are used only to target particular elements which occur only once throught the page*/
 /*Class Selectors are used to target a group of elements. Eg - 
